@@ -22,5 +22,3 @@ To load the dataset using Hugging Face, you can use the following code:
 from datasets import load_dataset
 
 data = load_dataset("harshi321/netflix-movies_shows")
-
-The working of this library requires updated huggingface libraries. Make sure to follow the video for running the jupyter notebook.
