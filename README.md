@@ -25,7 +25,7 @@ data = load_dataset("harshi321/netflix-movies_shows")
 
 ```
 
-**Conventional Information Retrieval (IR) System**
+## Conventional Information Retrieval (IR) System
 
 Make sure to have these .py files in the same directory.
 
@@ -54,7 +54,7 @@ Dancing Angels
 Geez & Ann
 
 
- **TF-IDF with Cosine Similarity**
+ ## TF-IDF with Cosine Similarity
 
  No other dependencies required, just run the class and run this code.
 
@@ -79,7 +79,7 @@ Document 802: Title: Never Back Down 2: The Beatdown | Description: A group of m
 Document 902: Title: Deadly Switch | Description: In this indie thriller, a foreign exchange student moves in with her roommate's family who grieves over the daughter they would do anything to get back. (Cosine Similarity: 0.1818)
 
 
-**Sentence Transformers for Semantic Search**
+## Sentence Transformers for Semantic Search
 
  No other dependencies required, just run the class and run this code.
 
