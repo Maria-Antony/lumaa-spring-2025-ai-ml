@@ -8,6 +8,10 @@ This project implements three different recommendation algorithms for movie reco
    
 3. **Sentence Transformers for Semantic Search**: The corpus is embedded using Sentence Transformers (binary encoders). The system compares the query embedding to the corpus embeddings and returns the top 5 most relevant results based on cosine similarity.
 
+The working of this library requires updated huggingface libraries. Make sure to follow the video for running the jupyter notebook.
+
+Video Link: 
+
 ## Dataset
 
 The dataset used for the movie recommendation system is the netflix-movies_shows dataset from HuggingFace. You can easily import the dataset using Hugging Face Datasetslibrary for easy loading.
